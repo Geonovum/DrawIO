@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T09:04:39.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="fDqX7X-PNqtMhqJ2Alk-" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T09:22:02.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Myh3NymvEfF5Pfw7DC4x" version="21.2.9" type="github">
   <diagram id="CxHojUyEMNxaQ7NSx9eF" name="Overzicht">
     <mxGraphModel dx="1037" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="_2D5J93Ur0jgfxuPfMTK-34" value="BestuurlijkeGrenzen-Voorziening" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="422" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_2D5J93Ur0jgfxuPfMTK-35" value="" style="endArrow=classic;html=1;strokeWidth=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="_2D5J93Ur0jgfxuPfMTK-34" edge="1" source="_2D5J93Ur0jgfxuPfMTK-4">
+        <mxCell id="_2D5J93Ur0jgfxuPfMTK-35" value="" style="endArrow=classic;html=1;strokeWidth=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_2D5J93Ur0jgfxuPfMTK-4" target="_2D5J93Ur0jgfxuPfMTK-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="470" as="sourcePoint" />
             <mxPoint x="1040" y="410" as="targetPoint" />
